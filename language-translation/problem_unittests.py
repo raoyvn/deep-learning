@@ -1,10 +1,10 @@
+# coding=utf-8
 import numpy as np
 import tensorflow as tf
 from tensorflow.python.layers.core import Dense
 import itertools
 import collections
 import helper
-
 
 def _print_success_message():
     print('Tests Passed')
